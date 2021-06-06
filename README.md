@@ -1,8 +1,5 @@
-[Shuting + Gwen's project]
-
-
-We did 2 extensions: 1)Class 2)Type. 
-
-All test cases on Git for everything till function and for these two extensions are passed.
-
-The Main.java file has been modified and is included in the "code" folder. Thank you.
+Implemented a parser and an interpreter for a new language.
+● The parser evaluates arithmetic expressions and returns an internal representation for the interpreter.
+● The interpreter takes the internal representation and executes variable declarations and assignments,
+branches and loops, defines and executes functions, classes, and type checking.
+● The test cases for this project is saved in another repository called "lang-test-cases".
